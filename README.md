@@ -1,16 +1,13 @@
-## Run Locally
+# CloudX
 
-**Prerequisites:**  Node.js
+:)
 
+## how to setup
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. ```npm install``` > installs the packages
+2. ```set GOOGLE_API_KEY="yourapikey"``` > sets api key
 
-
-credits:
+## credits
 
 ```gemini``` > **gui**, **scripting (tsx)**
 ```fluxgate``` > **gui**, **scripting (tsx)**
